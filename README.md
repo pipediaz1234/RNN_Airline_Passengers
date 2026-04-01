@@ -538,7 +538,7 @@ Este proyecto fue desarrollado por **Andrés Felipe Díaz Campos** como práctic
 Este proyecto está distribuido bajo la licencia **MIT**. Puedes usarlo, modificarlo y distribuirlo libremente citando al autor original.
 
 ```
-MIT License — Copyright (c) 2024 Andrés Felipe Díaz Campos
+MIT License — Copyright (c) 2026 Andrés Felipe Díaz Campos
 ```
 
 Consulta el archivo [LICENSE](LICENSE) para los términos completos.
