@@ -5,6 +5,8 @@
 # 🛫 Airline Passengers — LSTM Forecasting
 
 **Predicción de Series Temporales con Redes Neuronales Recurrentes**
+##IMAGEN DEL DASHBOARD DEL ENTRENAMIENTO
+<img width="752" height="162" alt="image" src="https://github.com/user-attachments/assets/07434a4c-85ae-42f4-b730-a836899dbf85" />
 
 <br>
 
