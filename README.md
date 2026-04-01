@@ -340,7 +340,7 @@ El notebook exporta automáticamente **5 figuras** de alta resolución (150 DPI)
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/andresfelipediaz/airline-passengers-lstm.git
+git clone https://github.com/pipediaz1234/RNN_Airline_Passengers/blob/main/RNN_Airline_Passengers.ipynb
 cd airline-passengers-lstm
 ```
 
